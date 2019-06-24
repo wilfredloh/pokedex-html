@@ -1,5 +1,7 @@
 # pokedex-html
 
+![https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif](https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif)
+
 Create a pokedex document. This document is a series on inter-linked HTML pages that gives different info on pokemon.
 
 Do some research about pokemon and their types here: [https://pokemondb.net/pokedex/all](https://pokemondb.net/pokedex/all)
